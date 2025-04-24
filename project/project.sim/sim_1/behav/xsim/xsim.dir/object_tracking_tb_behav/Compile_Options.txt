@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "object_tracking_tb_behav" "xil_defaultlib.object_tracking_tb" -log "elaborate.log" 

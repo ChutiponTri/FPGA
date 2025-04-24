@@ -1,0 +1,23 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/Xylinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot object_tracking_tb_behav xil_defaultlib.object_tracking_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_textio
+Compiling architecture behavioral of entity xil_defaultlib.camera_interface [camera_interface_default]
+Compiling architecture behavioral of entity xil_defaultlib.frame_buffer [frame_buffer_default]
+Compiling architecture behavioral of entity xil_defaultlib.feature_extraction [feature_extraction_default]
+Compiling architecture behavioral of entity xil_defaultlib.template_matching [\template_matching(image_width=3...]
+Compiling architecture behavioral of entity xil_defaultlib.vga_controller [vga_controller_default]
+Compiling architecture behavioral of entity xil_defaultlib.object_tracking_top [object_tracking_top_default]
+Compiling architecture behavioral of entity xil_defaultlib.object_tracking_tb
+Built simulation snapshot object_tracking_tb_behav
