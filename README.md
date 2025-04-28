@@ -4,7 +4,16 @@
 
 # 📁 Folder Structure Overview
 
-main/ ├── project/ # Camera Vision Project (incomplete - simulation OK) ├── Hello/ # UART Communication and Fall Detection Project (complete) ├── train/ │ └── train_logistic_regression.py ├── Demo M5StickC UART/ │ ├── platformio.ini │ └── src/ │ └── main.cpp
+main/
+├── project/                # Camera Vision Project (incomplete - simulation OK)
+├── Hello/                  # UART Communication and Fall Detection Project (complete)
+├── train/
+│   └── train_logistic_regression.py
+├── Demo M5StickC UART/
+│   ├── platformio.ini
+│   └── src/
+│       └── main.cpp
+
 
 
 ---
