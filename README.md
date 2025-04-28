@@ -4,6 +4,7 @@
 
 # 📁 Folder Structure Overview
 
+```
 main/
 ├── project/                # Camera Vision Project (incomplete - simulation OK)
 ├── Hello/                  # UART Communication and Fall Detection Project (complete)
@@ -13,7 +14,7 @@ main/
 │   ├── platformio.ini
 │   └── src/
 │       └── main.cpp
-
+```
 
 
 ---
